@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">geradorNumeroAleatorio</string>
+    <string name="header_name">Adivinhe um numero de 0 a 10:</string>
+    <string name="button_play">Jogar</string>
+    <string name="text_default_value">O numero aparecerá aqui</string>
+</resources>
